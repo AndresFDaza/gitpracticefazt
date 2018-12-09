@@ -1,3 +1,3 @@
 # gitpracticefazt
-Repaso funcionamiento Git
-Simple proyecto retomando comandos y estructura
+Repaso funcionamiento Git,
+Proyecto simple retomando comandos y estructura.
